@@ -51,7 +51,7 @@ public class App extends JFrame {
 	 * Create the frame.
 	 */
 	public App() {
-		setTitle("Satellite Orbits Simulator v0.1 by Jesse Deppisch");
+		setTitle("SatelliteSimulator v0.1");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
 		setBounds(100, 100, 1120, 860);
