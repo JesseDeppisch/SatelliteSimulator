@@ -1,6 +1,8 @@
 # SatelliteSimulator
 A Java-based desktop application that models 2 co-planar, 0-eccentricity satellites and their movements.
 
+![picture](https://github.com/JesseDeppisch/SatelliteSimulator/blob/master/image.png "Image of program")
+
 ### Requirements
 - Java 8 or later
 
